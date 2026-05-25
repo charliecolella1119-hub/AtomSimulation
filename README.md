@@ -4,7 +4,4 @@ A real-time 2D molecular simulation built in C++ with SFML. This project visuali
 
 ## Demo
 
-Add a screenshot or GIF here.
-
-```md
-![Atom Simulation Screenshot](images/simulation.png)
+![Atom Simulation Screenshot](images/simulation.png) 
