@@ -51,6 +51,8 @@ g++ -std=c++17 main.cpp Simulation.cpp Renderer.cpp -o main \
 
 ```bash
 ./main
+
+```
 ## Demo
 
 ![Atom Simulation Screenshot](images/simulation.png) 
